@@ -7,10 +7,11 @@
 ## 🚀 Features
 
 - **User Authentication & Roles** – Sign up/in with secure JWT-based auth; roles include Mentors and Entrepreneurs.  
-- **Idea Canvas & Guidance** – Step-by-step forms to capture startup details, powered by AI-suggested improvements.  
-- **Resource Library** – Library of tractable learning modules, business templates, and pitch-building guides.  
+- **Idea Canvas & Guidance** – Step-by-step forms to capture startup details, powered by LLaMA-based AI suggestions.  
+- **Progress Tracking & Smart Feedback** – Personalized AI agent tracks user milestones and gives contextual feedback.  
+- **Chatbot Assistant** – Integrated LLaMA-powered chatbot helps answer questions, clarify concepts, and offer business advice.  
 - **Mentor Portal** – Mentors can browse, shortlist ideas, offer feedback via comments and scheduling.  
-- **Dashboard & Progress Tracking** – Entrepreneurs get visual checkpoints and milestones to update their progress.
+
 
 ---
 
@@ -20,8 +21,7 @@
 |------------|---------------------------|
 | **Frontend** | React.js, Redux, Tailwind CSS |
 | **Backend**  | Node.js, Express.js, MongoDB |
-| **AI Integration** | OpenAI API for content suggestions |
+| **AI Integration** | LLaMA (Meta AI), Transformers, custom embeddings |
 | **Auth**     | JWT-based authentication |
 | **Deployment** | Deployed on Heroku/Netlify |
-
 
